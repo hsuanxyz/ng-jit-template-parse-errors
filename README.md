@@ -54,8 +54,10 @@ I tried using the `ɵrenderComponent` method to render the dynamic component, th
 
 ## 🔬 Minimal Reproduction
 
+Stackblitz: https://stackblitz.com/github/hsuanxyz/ng-jit-template-parse-errors
+
 Repo: https://github.com/hsuanxyz/ng-jit-template-parse-errors/
-Live DEMO: https://ng-jit-template-parse-errors.now.sh/
+
 
 ## 🔥 Exception or Error
 
